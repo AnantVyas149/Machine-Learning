@@ -11,6 +11,7 @@ The goal is not only to understand the theory behind each algorithm but also to 
 ## Topics Covered
 
 - Linear Regression
+- Ridge Lasso ElasticNet Regression
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
@@ -41,13 +42,14 @@ The goal is not only to understand the theory behind each algorithm but also to 
 Machine-Learning
 │
 ├── 01_Linear_Regression
-├── 02_Logistic_Regression
-├── 03_KNN
-├── 04_SVM
-├── 05_Naive_Bayes
-├── 06_Decision_Trees
-├── 07_Random_Forest
-├── 08_Unsupervised_Learning
+├── 02_Ridge_Lasso_ElasticNet_Regression
+├── 03_Logistic_Regression
+├── 04_KNN
+├── 05_SVM
+├── 06_Naive_Bayes
+├── 07_Decision_Trees
+├── 08_Random_Forest
+├── 09_Unsupervised_Learning
 ├── Images
 └── README.md
 ```
